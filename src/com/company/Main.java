@@ -14,6 +14,8 @@ public class Main {
         theStack.popAll();
         theStack.displayTheStack();*/
 
+
+        //Testing queue
         TheQueue theQueue = new TheQueue(10);
 
         theQueue.priorityInsert("10");
