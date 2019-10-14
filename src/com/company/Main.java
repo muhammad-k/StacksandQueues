@@ -15,7 +15,7 @@ public class Main {
         theStack.displayTheStack();*/
 
 
-        //Testing queue
+        //Testing queuesad
         TheQueue theQueue = new TheQueue(10);
 
         theQueue.priorityInsert("10");
