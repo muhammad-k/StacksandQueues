@@ -15,7 +15,7 @@ public class Main {
         theStack.displayTheStack();*/
 
 
-        //Testing queuesad
+/*        //Testing queuesad
         TheQueue theQueue = new TheQueue(10);
 
         theQueue.priorityInsert("10");
@@ -30,7 +30,7 @@ public class Main {
 
         theQueue.displayTheQueue();
 
-        theQueue.peek();
+        theQueue.peek();*/
 
     }
 }
